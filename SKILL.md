@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-292
-description: "Create XXD Panel 292 raster artwork: a faithful photograph paired with one small emotional handmade icon, naive ink and pastel on a large blank field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-292 or asks for this 手账灵魂 style."
+description: "XXD Panel 292｜Journal Soul: keeps the photo and leaves its subject as one small emotional icon that looks quickly drawn from memory — simple, round, slightly irregular shapes with a wobbly outline, a gap or two and a few colour patches, in a controlled yuru-kawaii clumsiness — in hand-drawn ink, coloured pencil, wax pastel and gouache marks on textured paper with fibres, grain, slight bleed and uneven coverage, in a friendly low-key palette of cream, warm beige, misty blue, sage green, soft orange, light pink and warm brown from the photo, hanging alone in extreme whitespace like a mark in a private journal, with an optional short handwritten word or note in a light, slightly unsteady type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-292 or asks for a journal-style emotional icon, yuru-kawaii doodle mark or handmade memory logo from a photo."
 ---
 
 # XXD Panel 292

@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 292｜Journal Soul: keeps the photo and leaves its subject as one small emotional icon that looks quickly drawn from memory — simple, round, slightly irregular shapes with a wobbly outline, a gap or two and a few colour patches, in a controlled yuru-kawaii clumsiness — in hand-drawn ink, coloured pencil, wax pastel and gouache marks on textured paper with fibres, grain, slight bleed and uneven coverage, in a friendly low-key palette of cream, warm beige, misty blue, sage green, soft orange, light pink and warm brown from the photo, hanging alone in extreme whitespace like a mark in a private journal, with an optional short handwritten word or note in a light, slightly unsteady type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-292 or asks for a journal-style emotional icon, yuru-kawaii doodle mark or handmade memory logo from a photo.",
+  "short_description": "手账灵魂：把照片主体收成一个像凭记忆随手画下、带墨线和蜡笔颗粒的情绪小图标",
+  "zh-CN": {
+    "name": "手账灵魂",
+    "tagline": "把照片主体收成一个像凭记忆随手画下的情绪小图标，像私人手账里的标记。",
+    "look": "原照片保留；主体像被人凭记忆很快画下来：形状圆、略不规则，轮廓轻微抖动，可以有一两处缺口，只用少量色块，笨拙得有分寸，带一点安静的幽默。墨线、彩铅、蜡笔和水粉的痕迹都留在纸上，有纤维、颗粒、轻微渗色和不均匀覆盖。颜色亲切、低刺激：奶油白、暖米、雾蓝、鼠尾草绿、柔和橙、浅粉、暖棕。小图标独自悬在大片空白里，如果有字，只是一个短词或手写片段，字体轻、略带手写的不稳定感。",
+    "traits": ["情绪图标", "手账标记", "蜡笔水粉", "亲切笨拙", "极端留白"],
+    "good": [
+      "让人有情绪记忆的日常小物：一杯咖啡、一把钥匙、一盆绿植、一只拖鞋",
+      "有表情或姿态的宠物和人：伸懒腰的猫、吐舌头的狗、托腮的人",
+      "想做成手账贴纸、日记图标或小包装标记的照片"
+    ],
+    "poor": [
+      "需要准确还原形状和细节的照片，这里刻意画得笨一点",
+      "想要精致矢量 Logo、商业吉祥物或卡通 IP 的需求",
+      "想要高饱和、糖果色或过度可爱效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Journal Soul",
+    "tagline": "Leaves the subject of your photo as one small emotional icon that looks quickly drawn from memory.",
+    "look": "Your photo stays; the subject looks as if someone sketched it from memory in a few seconds: round, slightly irregular shapes, a wobbly outline with a gap or two and only a few patches of colour, clumsy in a controlled way and quietly funny. Ink line, coloured pencil, wax pastel and gouache marks stay on the paper, with fibres, grain, slight bleed and uneven coverage. Colours are friendly and low-key: cream, warm beige, misty blue, sage green, soft orange, light pink and warm brown. The icon hangs alone in wide whitespace like a mark in a private journal, and any text is one short word or handwritten fragment in a light, slightly unsteady type.",
+    "traits": ["Emotional icon", "Journal mark", "Crayon and gouache", "Friendly clumsiness", "Extreme whitespace"],
+    "good": [
+      "Everyday things that carry a feeling: a cup of coffee, a key, a houseplant, a slipper",
+      "Pets and people with an expression or pose: a cat stretching, a dog with its tongue out, someone resting their chin on a hand",
+      "Photos you want as a journal sticker, a diary icon or a small packaging mark"
+    ],
+    "poor": [
+      "Photos whose exact shape and detail must be kept, since this is deliberately a little clumsy",
+      "Requests for a polished vector logo, a commercial mascot or a cartoon character",
+      "Requests for highly saturated candy colours or an overly cute look"
+    ]
+  },
+  "ja": {
+    "name": "手帳のこころ",
+    "tagline": "写真の主役を、記憶を頼りにさっと描いたような、手帳のしるしになる小さな感情アイコンにします。",
+    "look": "元の写真は残し、主役は誰かが記憶を頼りに数秒で描いたように見えます。形は丸く少し不規則で、輪郭はわずかに震え、ひとつふたつ欠けがあってもよく、色面は少しだけです。不器用さには節度があり、静かなユーモアがあります。墨の線、色鉛筆、クレヨン、ガッシュの跡が紙に残り、繊維、粒子、軽いにじみ、むらのある塗りがあります。色は親しみやすく穏やかなクリーム、温かなベージュ、霧の青、セージグリーン、柔らかなオレンジ、淡いピンク、温かな茶です。アイコンは広い余白にひとつだけ浮かび、文字があっても短い言葉か手書きの断片ひとつで、軽く少し揺れのある書体です。",
+    "traits": ["感情のアイコン", "手帳のしるし", "クレヨンとガッシュ", "親しみのある不器用さ", "大胆な余白"],
+    "good": [
+      "気持ちの記憶が宿る日用品：一杯のコーヒー、鍵、観葉植物、スリッパ",
+      "表情やしぐさのあるペットや人：伸びをする猫、舌を出した犬、頬杖をつく人",
+      "手帳のシール、日記のアイコン、小さなパッケージのマークにしたい写真"
+    ],
+    "poor": [
+      "形や細部を正確に再現したい写真（ここでは意図的に少し不器用に描きます）",
+      "整ったベクターロゴ、商業マスコット、キャラクターを求める場合",
+      "彩度の高いキャンディーカラーや、かわいさ過多の仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "다이어리 영혼",
+    "tagline": "사진 속 주인공을 기억에 기대어 재빨리 그린 듯한, 다이어리 표시 같은 작은 감정 아이콘으로 남깁니다.",
+    "look": "원본 사진은 남기고, 주인공은 누군가 기억에 기대어 몇 초 만에 그린 것처럼 보입니다. 형태는 둥글고 조금 불규칙하며, 윤곽은 살짝 떨리고 한두 군데 비어 있어도 되며, 색면은 몇 개뿐입니다. 서툶에는 절제가 있고 조용한 유머가 있습니다. 잉크 선, 색연필, 크레용, 과슈 자국이 종이에 남아 섬유, 입자, 살짝 번진 색, 고르지 않은 칠이 보입니다. 색은 친근하고 순한 크림, 따뜻한 베이지, 안개 파랑, 세이지 그린, 부드러운 주황, 연분홍, 따뜻한 갈색입니다. 아이콘은 넓은 여백에 홀로 떠 있고, 글자가 있다면 짧은 단어나 손글씨 조각 하나뿐이며 가볍고 살짝 흔들리는 서체입니다.",
+    "traits": ["감정 아이콘", "다이어리 표시", "크레용과 과슈", "다정한 서툶", "극단적 여백"],
+    "good": [
+      "감정의 기억이 담긴 일상 물건: 커피 한 잔, 열쇠, 화분, 슬리퍼 한 짝",
+      "표정이나 몸짓이 있는 반려동물과 사람: 기지개 켜는 고양이, 혀를 내민 강아지, 턱을 괸 사람",
+      "다이어리 스티커, 일기 아이콘, 작은 포장 마크로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "형태와 디테일을 정확히 살려야 하는 사진(여기서는 일부러 조금 서툴게 그립니다)",
+      "정교한 벡터 로고, 상업 마스코트, 캐릭터를 원하는 경우",
+      "채도 높은 사탕 색이나 지나치게 귀여운 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "روح دفتر اليوميات",
+    "tagline": "يترك العنصر الرئيسي في صورتك أيقونة عاطفية صغيرة تبدو كأنها رُسمت بسرعة من الذاكرة.",
+    "look": "تبقى صورتك، ويبدو العنصر كأن أحدهم رسمه من الذاكرة في ثوانٍ: أشكال مستديرة غير منتظمة قليلاً، وخط خارجي مرتعش فيه فجوة أو اثنتان، وبقع لونية قليلة، وخرق محسوب فيه دعابة هادئة. تبقى على الورق آثار خط الحبر والأقلام الملوّنة وأقلام الشمع والغواش، مع الألياف والحبيبات ونزيف خفيف وتغطية غير متساوية. الألوان ودودة هادئة: كريمي وبيج دافئ وأزرق ضبابي وأخضر مريمي وبرتقالي ناعم ووردي فاتح وبني دافئ. تعلّق الأيقونة وحدها في فراغ واسع كعلامة في دفتر يوميات خاص، وإن وُجد نص فهو كلمة قصيرة واحدة أو قصاصة بخط اليد بحروف خفيفة غير ثابتة قليلاً.",
+    "traits": ["أيقونة عاطفية", "علامة دفتر يوميات", "أقلام شمع وغواش", "خرق ودود", "فراغ واسع جداً"],
+    "good": [
+      "أشياء يومية تحمل شعوراً: فنجان قهوة، مفتاح، نبتة منزلية، خُفّ",
+      "حيوانات أليفة وأشخاص لهم تعبير أو وضعية: قطة تتمطّى، كلب يُخرج لسانه، شخص يسند ذقنه بيده",
+      "صور تريدها ملصقاً لدفتر يوميات أو أيقونة لمذكرات أو علامة صغيرة على تغليف"
+    ],
+    "poor": [
+      "صور يجب الحفاظ على شكلها وتفاصيلها بدقة، فالرسم هنا أخرق قليلاً عمداً",
+      "طلب شعار متجهي مصقول أو تميمة تجارية أو شخصية كرتونية",
+      "طلب ألوان حلوى عالية التشبع أو مظهر مفرط في اللطافة"
+    ]
+  }
+}
